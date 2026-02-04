@@ -1,28 +1,39 @@
 {
   "configVersion": 1,
-  "timestamp": 1663223795993,
+  "timestamp": 1770233418010,
+  "appData": "JSON2Table ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
     {
-      "name": "app",
+      "name": "appRoot",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/main.499a9432b0c3be3a.js",
-        "/polyfills.29f4a9498a8e688b.js",
+        "/index.html",
+        "/main.f1e753deb9dcb00c.js",
+        "/polyfills.6aaee6889ff9e5bf.js",
         "/runtime.66a2373471ee58c7.js",
-        "/scripts.e4ac12702707682a.js",
-        "/styles.4b289aeb55611793.css"
+        "/scripts.d0f5409637358297.js",
+        "/styles.371414a80d307659.css"
       ],
       "patterns": []
     },
     {
+      "name": "conf",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": []
+    },
+    {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -36,7 +47,14 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/screenshots/screenshot.jpg",
+        "/assets/screenshots/smalldark.png",
+        "/assets/themes/colors.css",
+        "/assets/themes/colorsDark.css",
+        "/assets/themes/styles.css",
+        "/assets/themes/theme.css",
+        "/assets/themes/themedark.css"
       ],
       "patterns": []
     }
@@ -52,12 +70,19 @@
     "/assets/icons/icon-512x512.png": "1f933063057cbb9305f7da7fdbd73770036116c0",
     "/assets/icons/icon-72x72.png": "cd6f2ccb6f0021d1634027e8164bef5ecc592d21",
     "/assets/icons/icon-96x96.png": "3cc2cba5c2e584b9d4ae1148e343ca9b14bb1a66",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/main.499a9432b0c3be3a.js": "a5d12123efd8c26d2bf8b6885cd50e524ba5f9f4",
-    "/polyfills.29f4a9498a8e688b.js": "6dab843de5817a39fa2c3a6d3cf605b1013213a2",
+    "/assets/screenshots/screenshot.jpg": "fb6bfc0c93bd83097380546a645c8b21e31a4d9f",
+    "/assets/screenshots/smalldark.png": "36174f2671060e565d0d324e3432378f2e7c0b8e",
+    "/assets/themes/colors.css": "5d04b22202e357fdb18fcbd58b6ec50d41b47abd",
+    "/assets/themes/colorsDark.css": "900304bd85d95f6adc1f0615480053553f360141",
+    "/assets/themes/styles.css": "27ef3df4eb378bdf4d21503857b4f94ed0c9cb9f",
+    "/assets/themes/theme.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
+    "/assets/themes/themedark.css": "3bd9a978a86943b7d5a9b9b00edcba3cee9759c5",
+    "/index.html": "9854422e7a18be2e32f3259af7ab8f16928a2df2",
+    "/main.f1e753deb9dcb00c.js": "6b7256c0fe885c2f459060e0a8849ef86628f054",
+    "/polyfills.6aaee6889ff9e5bf.js": "eb4b377aca1aac833d7fe9062690cd33f17d47a9",
     "/runtime.66a2373471ee58c7.js": "37906e3ea1da6f1fee6190ec516cb8c42f122629",
-    "/scripts.e4ac12702707682a.js": "9f881e71f0093d6ca6e4da5aced89096eb8f6e6e",
-    "/styles.4b289aeb55611793.css": "636a16aa587cb75170213b5b5303cc2caeaee60b"
+    "/scripts.d0f5409637358297.js": "3bcd7574006fc2c16c5261d050dd516b975ec677",
+    "/styles.371414a80d307659.css": "6a50d1d5507ae58e8dc596a74066b6f8677b662b"
   },
   "navigationUrls": [
     {
