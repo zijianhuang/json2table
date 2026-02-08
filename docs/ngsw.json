@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770243249073,
+  "timestamp": 1770546091865,
   "appData": "JSON2Table ServiceWorker",
   "index": "/json2table/index.html",
   "assetGroups": [
@@ -13,11 +13,10 @@
       },
       "urls": [
         "/json2table/index.html",
-        "/json2table/main.f1e753deb9dcb00c.js",
-        "/json2table/polyfills.6aaee6889ff9e5bf.js",
-        "/json2table/runtime.66a2373471ee58c7.js",
-        "/json2table/scripts.8d375181f6982a5d.js",
-        "/json2table/styles.371414a80d307659.css"
+        "/json2table/main-5CIUZH52.js",
+        "/json2table/polyfills-DYHEV32L.js",
+        "/json2table/scripts-2R3Z447F.js",
+        "/json2table/styles-VDX3M6EY.css"
       ],
       "patterns": []
     },
@@ -39,6 +38,11 @@
         "ignoreVary": true
       },
       "urls": [
+        "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot",
+        "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg",
+        "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf",
+        "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff",
+        "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2",
         "/json2table/assets/icons/icon-128x128.png",
         "/json2table/assets/icons/icon-144x144.png",
         "/json2table/assets/icons/icon-152x152.png",
@@ -50,17 +54,21 @@
         "/json2table/assets/icons/icon-96x96.png",
         "/json2table/assets/screenshots/screenshot.jpg",
         "/json2table/assets/screenshots/smalldark.png",
-        "/json2table/assets/themes/colors.css",
-        "/json2table/assets/themes/colorsDark.css",
-        "/json2table/assets/themes/styles.css",
-        "/json2table/assets/themes/theme.css",
-        "/json2table/assets/themes/themedark.css"
+        "/json2table/assets/themes/azure-blue.css",
+        "/json2table/assets/themes/cyan-orange.css",
+        "/json2table/assets/themes/magenta-violet.css",
+        "/json2table/assets/themes/rose-red.css"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
+    "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "70b06164ae297288686e1c74ac15f412f91f3043",
+    "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
+    "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff": "d9cfe6b477b49d47b6241b4281f4858d98eaca65",
+    "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2": "7ca9c5967f3bb8bffeab24b639b49c1e7d03fa52",
     "/json2table/assets/icons/icon-128x128.png": "9f2bdb3e1be39cc342b3b41675d2e8806c5513ba",
     "/json2table/assets/icons/icon-144x144.png": "768b493f749a9c93c0d3a053be76154f05f0b941",
     "/json2table/assets/icons/icon-152x152.png": "217749ecd518fdbac40a838931a2e29ad3034b7e",
@@ -72,17 +80,15 @@
     "/json2table/assets/icons/icon-96x96.png": "3cc2cba5c2e584b9d4ae1148e343ca9b14bb1a66",
     "/json2table/assets/screenshots/screenshot.jpg": "fb6bfc0c93bd83097380546a645c8b21e31a4d9f",
     "/json2table/assets/screenshots/smalldark.png": "36174f2671060e565d0d324e3432378f2e7c0b8e",
-    "/json2table/assets/themes/colors.css": "5d04b22202e357fdb18fcbd58b6ec50d41b47abd",
-    "/json2table/assets/themes/colorsDark.css": "900304bd85d95f6adc1f0615480053553f360141",
-    "/json2table/assets/themes/styles.css": "27ef3df4eb378bdf4d21503857b4f94ed0c9cb9f",
-    "/json2table/assets/themes/theme.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
-    "/json2table/assets/themes/themedark.css": "3bd9a978a86943b7d5a9b9b00edcba3cee9759c5",
-    "/json2table/index.html": "302252324c93aa1c111e99e589fe45f579011f72",
-    "/json2table/main.f1e753deb9dcb00c.js": "6b7256c0fe885c2f459060e0a8849ef86628f054",
-    "/json2table/polyfills.6aaee6889ff9e5bf.js": "eb4b377aca1aac833d7fe9062690cd33f17d47a9",
-    "/json2table/runtime.66a2373471ee58c7.js": "37906e3ea1da6f1fee6190ec516cb8c42f122629",
-    "/json2table/scripts.8d375181f6982a5d.js": "b389fce45505a6d3bfdf90bb1b5685287c2cb3ee",
-    "/json2table/styles.371414a80d307659.css": "6a50d1d5507ae58e8dc596a74066b6f8677b662b"
+    "/json2table/assets/themes/azure-blue.css": "3469e5f43981ab810265ba8e68ef9871a5eef3d0",
+    "/json2table/assets/themes/cyan-orange.css": "3441c74bdce28b63d4284caaf273a3f8a55e0f53",
+    "/json2table/assets/themes/magenta-violet.css": "5650a1da939f35c356dbbf34b549eb58d49558d4",
+    "/json2table/assets/themes/rose-red.css": "b93ce9483c7c24438e30b6426fb953921116ecdb",
+    "/json2table/index.html": "43066e9e85fb302c2259c0a1e84b8f915826eba6",
+    "/json2table/main-5CIUZH52.js": "43c39760becc7e801669de61c10433579e9322b2",
+    "/json2table/polyfills-DYHEV32L.js": "a6025c6ca3a25f1f2c65dbf8059dc6dba9f2debb",
+    "/json2table/scripts-2R3Z447F.js": "9e33462580cd58c8186153133f5f2e0c9ab2616c",
+    "/json2table/styles-VDX3M6EY.css": "6a50d1d5507ae58e8dc596a74066b6f8677b662b"
   },
   "navigationUrls": [
     {

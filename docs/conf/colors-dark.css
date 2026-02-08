@@ -1,3 +1,7 @@
+body {
+	background-color: darkblue;
+}
+
 .string-node {
 	color: antiquewhite;
 }
@@ -33,10 +37,6 @@ tbody {
 }
 
 .data-area {
-	background-color: #1a1a1a;
+	background-color: #292727;
 	color: white;
-}
-
-body {
-	background-color: #2a2a2a;
 }
