@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1771063427463,
+  "timestamp": 1771113324318,
   "appData": "JSON2Table ServiceWorker",
   "index": "/json2table/index.html",
   "assetGroups": [
@@ -13,9 +13,9 @@
       },
       "urls": [
         "/json2table/index.html",
-        "/json2table/main-H3DV3OBD.js",
+        "/json2table/main-6APIFWCF.js",
         "/json2table/polyfills-DYHEV32L.js",
-        "/json2table/scripts-PS25X5IA.js",
+        "/json2table/scripts-FYHE52EJ.js",
         "/json2table/styles-VDX3M6EY.css"
       ],
       "patterns": []
@@ -38,10 +38,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot",
-        "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg",
-        "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf",
-        "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff",
         "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2",
         "/json2table/assets/icons/icon-128x128.png",
         "/json2table/assets/icons/icon-144x144.png",
@@ -64,10 +60,6 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
-    "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "70b06164ae297288686e1c74ac15f412f91f3043",
-    "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
-    "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff": "d9cfe6b477b49d47b6241b4281f4858d98eaca65",
     "/json2table/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2": "7ca9c5967f3bb8bffeab24b639b49c1e7d03fa52",
     "/json2table/assets/icons/icon-128x128.png": "9f2bdb3e1be39cc342b3b41675d2e8806c5513ba",
     "/json2table/assets/icons/icon-144x144.png": "768b493f749a9c93c0d3a053be76154f05f0b941",
@@ -84,10 +76,10 @@
     "/json2table/assets/themes/cyan-orange.css": "3441c74bdce28b63d4284caaf273a3f8a55e0f53",
     "/json2table/assets/themes/magenta-violet.css": "5650a1da939f35c356dbbf34b549eb58d49558d4",
     "/json2table/assets/themes/rose-red.css": "b93ce9483c7c24438e30b6426fb953921116ecdb",
-    "/json2table/index.html": "b9fffdf6a500bf4295705b2949d85822a12d5c84",
-    "/json2table/main-H3DV3OBD.js": "c3028c2697dd255bb8e28720dd1fea91f88cd393",
+    "/json2table/index.html": "82b3adaf3a6e2b7092fbdd518c4ea5efdf9e8c66",
+    "/json2table/main-6APIFWCF.js": "bba803276a2d6474cc26c8bab00f7cfc268dc55a",
     "/json2table/polyfills-DYHEV32L.js": "a6025c6ca3a25f1f2c65dbf8059dc6dba9f2debb",
-    "/json2table/scripts-PS25X5IA.js": "eb49c5825337f5b20014e30e99addef18df2362d",
+    "/json2table/scripts-FYHE52EJ.js": "0429e3d662c326611338d12a520722e62baef76a",
     "/json2table/styles-VDX3M6EY.css": "6a50d1d5507ae58e8dc596a74066b6f8677b662b"
   },
   "navigationUrls": [

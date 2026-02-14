@@ -38,19 +38,6 @@
 	"edge_side_panel": {},
 	"protocol_handlers": [],
 	"scope_extensions": [],
-	"share_target": {},
-	"shortcuts": [
-		{
-			"name": "Json2Table",
-			"url": "https://jsontotable.fonlow.com/app/",
-			"description": "Json2Table App"
-		},
-		{
-			"name": "About",
-			"url": "https://jsontotable.fonlow.com",
-			"description": "About"
-		}
-	],
 	"iarc_rating_id": "27508ec0-063b-4cd0-b1d4-c8a24c4f0760",
 	"related_applications": [],
 	"icons": [
